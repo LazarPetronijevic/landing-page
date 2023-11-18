@@ -67,7 +67,7 @@ button{
     font-size: 36px;
     font-weight:bolder;
     color: #1F2937;
-    padding: 30px;
+    padding: 40px;
 }
 .illustration{
     border: 5px solid rgb(58, 130, 212);
@@ -86,6 +86,7 @@ button{
 }
 figure{
     text-align: center;
+    margin-bottom: 150px;
 }
 figcaption{
     width: 150px;
@@ -140,4 +141,13 @@ em{
 .main-text{
     font-size: 18px;
     font-weight: 700;
+}
+.footer {
+    background-color: #1F2937;
+    color: #E5E7EB;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding-top: 30px;
+    padding-bottom: 30px;
 }
